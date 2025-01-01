@@ -1,6 +1,5 @@
 # General Tools
-Combination of different tools used in different circumstances as pertaining to Pharma work
-
+Combination of different tools used in different circumstances as pertaining to Pharma work. Most tools are based on the MS Office 365.
 
 ## Enhanced Find for Word
 Finds text in all files in a specific folder.
@@ -34,3 +33,33 @@ Tasks are being tracked via graphs on the task list to give visibility on the st
 The file currently runs without in VBA code.
 
 This is a working progress and additional information will be added as time progresses.
+
+## ADaM Spec Creator
+Placeholder for a new program that is writen in MS Access. It's breaking the mold of the using Excel is primary tool in creating ADaM specification.
+
+### Why change?
+Excel has been a stapel for spec writing for many years and just like anything in life, as times and requirements change so a change might be needed.
+ > - The idea ws born due to the flood of information that workers in the Pharma industry needs to keep track of and the idea evolved from that point.
+ > - CRO's have there own standard macros, due to different sponsors having different standards. CRO's needs to "bend" to the requirments from sponsors.
+ > - The pressure to remember X, Y, Z when you may only get to X four months down the line is a challenge.
+ > - Excel does a good job of what we need to do, but is lacking functionality. Specifications can grow causing the files to become large.
+ > - Due to the complex nature of specification, it's a breeding ground for micro time stealers.
+The list goes on. 
+
+The POC is to reduce workload and rework for spec creators. Limiting the micro time stealers. The current POC is in MS Access but I'm still thinking if it's the best technology. With IT in Pharma being as heavily regulated as it is, a MS Access based solution offers a cost effective solution. Chances are that the solution might stay in MS Access... 
+
+#### Preview
+
+Below are some screen shots of what's envisioned
+
+##### Specification main screen
+![image](https://github.com/user-attachments/assets/7f024506-a9a6-462b-8732-3e30aa29cbb0)
+
+##### VLM Screen
+ > - VLM can be accessed on a dataset level or
+ > - VLM can be accessed on a variable leve.
+![image](https://github.com/user-attachments/assets/3d9ed2de-9af0-455d-9ca2-512fdaebe8f7)
+
+##### Terminiology Sheet
+![image](https://github.com/user-attachments/assets/487c1177-ea0c-4482-b52d-89faccde577e)
+
