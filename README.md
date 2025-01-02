@@ -25,7 +25,7 @@ You can added or change as needed
 
 ## Enhance Task Manager
 A tool for team leads or non-leads to keep track of competing tasks. This is very similar to MS ToDo, but the main target audiance are for those industries that have regulatory constraints.
-The users classifies tasks based on the Eisenhower method. The template was based on a simple task manager from the MS templated but is heavily modified. 
+The users classifies tasks based on the Eisenhower method. The Actions are automatically assigned based on if it's Urgent/Important. The template was based on a simple task manager from the MS template but is heavily modified. Only bits remaining is th Current day, Over due tasks.
 
 Tasks are being tracked via graphs on the task list to give visibility on the status of the tasks.
 ![image](https://github.com/user-attachments/assets/a20ed32a-dedd-4556-9f9e-a7427adc286d)
