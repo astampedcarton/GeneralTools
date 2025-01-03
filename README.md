@@ -34,6 +34,21 @@ The file currently runs without in VBA code.
 
 This is a working progress and additional information will be added as time progresses.
 
+## FileViewer
+ - A VBA macro to view all files in a given directory. 
+ - For Large File these will be exported as pdf and then only the first x nr of pages - it's up to the user.
+ - All files are open in Read-Only by default, but it can be switched off.
+
+The interface is very basic. The slim and "cramped" feel is on purpose to allow for the macro to be on one side and the files on the other if needed.
+
+![image](https://github.com/user-attachments/assets/7648dda7-27ef-4202-b3db-6723da6cac51)
+
+**KNOWN ISSUES**
+ > If you are running on OneDrive.
+ > Manually create folder similar too: C:\Users\<userid>\OneDrive\FileViewer
+
+
+# Placeholders
 ## ADaM Spec Creator
 Placeholder for a new program that is writen in MS Access. It's breaking the mold of the using Excel is primary tool in creating ADaM specification.
 
