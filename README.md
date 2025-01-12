@@ -41,11 +41,16 @@ This is a working progress and additional information will be added as time prog
 
 The interface is very basic. The slim and "cramped" feel is on purpose to allow for the macro to be on one side and the files on the other if needed.
 
-![image](https://github.com/user-attachments/assets/7648dda7-27ef-4202-b3db-6723da6cac51)
+![image](https://github.com/user-attachments/assets/00868ac3-5b7d-435a-ad89-1846ea6a767e)
+
+### TODO
+ - Option to combine all selected files into one document and where the first two pages are printed.
+ - Add a check count to show, in a session whats already been check
+ - Save progress and update progress on what's been checked
+ - Search option of the files in the list view
 
 **KNOWN ISSUES**
- > If you are running on OneDrive.
- > Manually create folder similar too: C:\Users\<userid>\OneDrive\FileViewer
+ > Automatically opening files > 3MB might not automatically open. These will have to be opened manually from the TEMP folder.
 
 
 # Placeholders
