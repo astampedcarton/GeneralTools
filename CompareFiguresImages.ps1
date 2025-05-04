@@ -1,4 +1,11 @@
-﻿#Extract the figure information
+#--------------------------------------------------------------------
+# Purpose: To compare the images in an rtf file. 
+#          The whole image is compares and the idea is to just check
+#          if there's a difference of not
+# Version: 1.0
+# Author : Hentie du Plessis
+#--------------------------------------------------------------------
+ #Extract the figure information
 function Get-RtfPictHex {
     param (
         [string]$Path
