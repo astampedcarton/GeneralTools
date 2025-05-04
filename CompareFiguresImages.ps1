@@ -58,6 +58,6 @@ function Compare-RtfImages {
 
 clear
 # Example usage:
-Compare-RtfImages -oldfile "C:\Temp\figures\figure1\fig-simple.rtf" -newfile "C:\Temp\figures\figure2\fig-simple.rtf"
-Compare-RtfImages -oldfile "C:\Temp\figures\figure1\fig-simple2.rtf" -newfile "C:\Temp\figures\figure2\fig-simple2.rtf"
-Compare-RtfImages -oldfile "C:\Temp\figures\figure1\fig-simple3.rtf" -newfile "C:\Temp\figures\figure2\fig-simple3.rtf"
+# Compare-RtfImages -oldfile "C:\Temp\figures\figure1\fig-simple.rtf" -newfile "C:\Temp\figures\figure2\fig-simple.rtf"
+# Compare-RtfImages -oldfile "C:\Temp\figures\figure1\fig-simple2.rtf" -newfile "C:\Temp\figures\figure2\fig-simple2.rtf"
+# Compare-RtfImages -oldfile "C:\Temp\figures\figure1\fig-simple3.rtf" -newfile "C:\Temp\figures\figure2\fig-simple3.rtf"
